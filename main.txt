@@ -1,14 +1,23 @@
 ﻿package com.david
 
+
 int jenusl()
 {
 	aaa
 	bbbb
 }	
 
+
+int chenjinjha()
+{
+    aaaa
+    bbbb
+}
+
 public main()
 {
 	sysout("aaa");
+	jenusl();
+	chenjinjha();
 	
-
 }
