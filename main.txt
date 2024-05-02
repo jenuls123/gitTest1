@@ -1,6 +1,12 @@
 ﻿package com.david
 
 
+int chenjinjha()
+{
+    aaaa
+    bbbb
+}
+
 int jenusl()
 {
 	aaa
@@ -8,11 +14,7 @@ int jenusl()
 }	
 
 
-int chenjinjha()
-{
-    aaaa
-    bbbb
-}
+
 
 public main()
 {
