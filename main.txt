@@ -5,6 +5,12 @@ int chenjinjha()
 {
     aaaa
     bbbb
+    cccc
+    dddd
+    eeee
+    ffff
+    gggg
+    hhhh
 }
 
 int jenusl()
