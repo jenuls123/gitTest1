@@ -1,5 +1,10 @@
 ﻿package com.david
 
+int jenusl()
+{
+	aaa
+	bbbb
+}	
 
 public main()
 {
