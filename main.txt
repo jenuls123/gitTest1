@@ -1,0 +1,9 @@
+﻿package com.david
+
+
+public main()
+{
+	sysout("aaa");
+	
+
+}
