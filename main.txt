@@ -1,6 +1,10 @@
 ﻿package com.david
 
-
+int chenjinjha()
+{
+    aaaa
+    bbbb
+}
 public main()
 {
 	sysout("aaa");
